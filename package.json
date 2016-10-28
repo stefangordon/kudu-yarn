@@ -10,6 +10,6 @@
   "author": "Stefan Gordon <stefan@stefangordon.com>",
   "license": "MIT",
   "dependencies": {
-    "http": "^0.0.0"
+    "moment": "^2.15.2"
   }
 }
