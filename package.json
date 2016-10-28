@@ -1,0 +1,15 @@
+{
+  "name": "kudu-yarn",
+  "version": "1.0.0",
+  "description": "Sample Yarn usage in Azure App Services",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/stefangordon/kudu-yarn.git",
+    "type": "git"
+  },
+  "author": "Stefan Gordon <stefan@stefangordon.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.0"
+  }
+}
